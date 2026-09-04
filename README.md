@@ -1,7 +1,3 @@
-# Solo Zenith
-
-### BCA Student | Programmer | AI/ML Enthusiast
-
 ## Who am I?
 
 I'm a second-year BCA student and programmer interested in **Programming, Technology, and AI/ML**.
